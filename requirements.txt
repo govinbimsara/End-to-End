@@ -3,4 +3,7 @@ numpy
 seaborn
 mlflow==2.10.0
 dvc==3.0
--e .
+scikit-learn
+catboost
+xgboost
+#-e .
